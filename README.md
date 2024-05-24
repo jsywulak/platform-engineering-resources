@@ -11,6 +11,7 @@ Security
 * WAF Security Pillar
 * AWS Security Cert
 * OWASP
+
 Source Control / GitOps
 * LeetCode for Git
 * Do small project and host on Github
@@ -18,6 +19,7 @@ Source Control / GitOps
 * “Git Best Practices”
 * “PR Best Practices”
 * Julia’s zines
+
 Kubernetes / Container Orchestration
 * CKAD cert
 * K8s the hard way
@@ -32,6 +34,7 @@ Kubernetes / Container Orchestration
 * Devops Handbook
 * Accelerate
 * Continuos Delivery Book
+
 Programming Languages
 * Learn _X_ the Hard Way
     * What are prod engineers using?
@@ -41,6 +44,7 @@ Programming Languages
 * Python For Pentesters
 * programmingexpert.io
 * Screeps
+
 Cloud
 * AWS Skill Builder
 * AWS Certifications
@@ -50,6 +54,7 @@ Cloud
 * A Cloud Guru
 * Tutorial Doju
 * Well Architected Framework
+
 System Administration
 * Sad Servers
 * VIM Tutorials
@@ -58,6 +63,7 @@ System Administration
 * Bash Linter
 * Regex Golf
 * Julia’s zines
+
 Infrastructure as Code (IAC)
 * James T Book
 * Do docs / tutorials on TF
@@ -65,6 +71,7 @@ Infrastructure as Code (IAC)
 * Pulumi Youtube
 * Deploy your containers to cloud using IAC
 * Idempotency
+
 Observability (o11y) / SLA / SLO
 * Google SRE Handbook
 * Google SRE Workbook
@@ -76,6 +83,7 @@ Observability (o11y) / SLA / SLO
 * Honeycomb Online Demo
 * WAF White Paper on o11y (svc lend?)
 * Follow Charity Majors and Liz Fong Jones on Twitter
+
 Microservices
 * 12 Factor App
 * Sam Newman Books
@@ -90,14 +98,22 @@ Microservices
 * Linux Admin Handbook CGroup Chapter
 * Rancher Academy
 * Kubecon TAlk 23 Defeat Scanning Tools
+
 Marketing / Developer Relations (DevRel)
+
 Networking
+
 PM / Product Planning
 * Wardley Maps
+
 Internal Development Platforms (IDPs)
+
 Capacity Engineering
+
 Resilience Engineering
+
 Financial Operations (FinOps)
+
 Policy As Code (PAC)
 
 
