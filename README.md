@@ -23,39 +23,41 @@ Source Control / GitOps
 * [/r/git subreddit](https://www.reddit.com/r/git/)
 
 Kubernetes / Container Orchestration
-* CKAD cert
-* K8s the hard way
-* K8s Up and Running
-* K8s Resume Challenge
-* killer.sh
-* EKS User Guide
-* Continuous Integration / Delivery / Deployment (CI/CD)
+* [CKAD cert](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+* [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+* [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781491935668/)
+* [Kubernetes Resume Challenge](https://cloudresumechallenge.dev/docs/extensions/kubernetes-challenge/)
+* [killer.sh](https://killer.sh)
+* [EKS User Guide](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
+
+Continuous Integration / Delivery / Deployment (CI/CD)
 * Dummy app / ref architecture pipeline
-* Thoughtworks Radar
-* Phoenix Project
-* Devops Handbook
-* Accelerate
-* Continuos Delivery Book
+* [Thoughtworks Radar](https://www.thoughtworks.com/radar)
+* [Phoenix Project](https://itrevolution.com/product/the-phoenix-project/)
+* [Devops Handbook](https://itrevolution.com/product/the-devops-handbook-second-edition/)
+* [Accelerate](https://itrevolution.com/product/accelerate/)
+* [Continuous Delivery Book](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
 
 Programming Languages
-* Learn _X_ the Hard Way
-    * What are prod engineers using?
-* Skip erts
-* Learning Go (book)
-* Rust Programming Langauge (book)
-* Python For Pentesters
-* programmingexpert.io
-* Screeps
+* [Learn _X_ the Hard Way](https://learncodethehardway.org/)
+    * Python and Golang are probably the two most used languages in platform engineering, but you also will be very well served by understanding the language the product engineers at your company are writing this applictions in.
+* Skip certs -- programming is an important skil in platform engineering, but the level language certifications require is most likely far too deep for what you'll need.
+* [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/)
+* [Rust Programming Langauge (book)](https://nostarch.com/rust-programming-language-2nd-edition) but also [available for free online](https://doc.rust-lang.org/book/ch00-00-introduction.html)
+* [Python For Pentesters](https://www.pentesteracademy.com/course?id=1)
+* [programmingexpert.io](https://www.programmingexpert.io/product)
+* [Screeps](https://screeps.com/)
 
 Cloud
-* AWS Skill Builder
-* AWS Certifications
-* Cloud Resume Challenge
+* [AWS Skill Builder](https://skillbuilder.aws/)
+* [AWS Certifications](https://aws.amazon.com/certification/)
+* [Cloud Resume Challenge](https://cloudresumechallenge.dev/)
 * Azure Free Tier (.net inspire)
 * Reading FAQs
-* A Cloud Guru
-* Tutorial Doju
-* Well Architected Framework
+* [A Cloud Guru](https://www.pluralsight.com/cloud-guru)
+* [Tutorial Dojo](https://tutorialsdojo.com/)
+* [AWS Well Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+* [Azure Well Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
 
 System Administration
 * Sad Servers
