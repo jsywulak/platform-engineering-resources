@@ -89,26 +89,26 @@ Observability (o11y) / SLA / SLO
 * Follow [Charity Majors](https://twitter.com/mipsytipsy/) on Twitter
 
 Microservices
-* 12 Factor App
-* Sam Newman Books
-* Niel Folk books
-* Jackie Reed Book
-* Do Docker Tutorial
-* Bootstrappning Microservices by Ashley Davis
-* Fallacies of Distributed Computing
+* [12 Factor App](https://12factor.net/)
+* [Monolith to Microservices by Sam Newman](https://samnewman.io/books/monolith-to-microservices/)
+* [Building Microservices by Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
+* [Building Evolutionary Architectures by Neil Ford](https://www.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/)
+* [Docker Tutorial](https://www.docker.com/101-tutorial/)
+* [Bootstrappning Microservices by Ashley Davis](https://www.manning.com/books/bootstrapping-microservices-second-edition)
+* [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 * Run container scanning tools on public images
-* DDD Book
-* CNCF Working group (volunteer / discussion)
-* Linux Admin Handbook CGroup Chapter
-* Rancher Academy
-* Kubecon TAlk 23 Defeat Scanning Tools
+* [Domain-Driven Design by Eric Evans](https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/)
+* [CNCF Working groups](https://contribute.cncf.io/about/working-groups/) (volunteer / discussion)
+* [Linux Admin Handbook](https://www.oreilly.com/library/view/unix-and-linux/9780134278308/) (specifically the section on containers)
+* [Rancher Academy](https://www.rancher.academy/)
+* [Malicious Compliance: Reflections on Trusting Container Scanners](https://kccnceu2023.sched.com/event/1Hybu/malicious-compliance-reflections-on-trusting-container-scanners-ian-coldwater-independent-duffie-cooley-isovalent-brad-geesaman-ghost-security-rory-mccune-datadog)
 
 Marketing / Developer Relations (DevRel)
 
 Networking
 
 PM / Product Planning
-* Wardley Maps
+* [Wardley Maps](https://learnwardleymapping.com/book/)
 
 Internal Development Platforms (IDPs)
 
