@@ -9,6 +9,7 @@ Security
 * [WAF Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
 * [AWS Security Certification](https://aws.amazon.com/certification/certified-security-specialty/)
 * [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+* [Bandit Wargame](https://overthewire.org/wargames/bandit/)
 * Security LLMs
    * [IntelGPT](https://github.com/phishing-hunter/intelgpt)
    * [Hacker GPT](https://github.com/Hacker-GPT/HackerGPT-2.0)
@@ -60,34 +61,32 @@ Cloud
 * [Azure Well Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
 
 System Administration
-* Sad Servers
-* VIM Tutorials
-* Leet Code for Bash
+* [Sad Servers](https://sadservers.com/)
+* [OpenVIM Interactive Tutorial](https://www.openvim.com/)
 * K8s the hard way
-* Bash Linter
-* Regex Golf
-* Julia’s zines
+* [Shellcheck](https://github.com/koalaman/shellcheck) - Bash Linter
+* [Regex Golf](https://alf.nu/RegexGolf?world=regex&level=r00)
+* [Wizard Zines Bite Size Pack](https://wizardzines.com/zines/bite-size-pack/)
 
 Infrastructure as Code (IAC)
-* James T Book
+* [The Terraform Book by James Turnbull](https://terraformbook.com/)
 * Do docs / tutorials on TF
 * Plural Sight / A Cloud Guru
-* Pulumi Youtube
+* [Pulumi Youtube Channel](https://www.youtube.com/channel/UC2Dhyn4Ev52YSbcpfnfP0Mw)
 * Deploy your containers to cloud using IAC
 * Idempotency
 
 Observability (o11y) / SLA / SLO
 * [Charity Majors SRE Con Keynote](https://www.usenix.org/conference/srecon24americas/presentation/majors-plenary)
-* Google SRE Handbook
-* Google SRE Workbook
-* Alex H book
+* [Google SRE Handbook](https://sre.google/sre-book/table-of-contents/)
+* [Google SRE Workbook](https://sre.google/workbook/table-of-contents/)
+* [Cloud Native Observability book](https://www.oreilly.com/library/view/cloud-native-observability-with/9781801077705/) 
 * Read Open Telemetry Docs
-* Observability Engineering
-* DORA Metric Blog Posts
-* Austin Parker book
-* Honeycomb Online Demo
-* WAF White Paper on o11y (svc lend?)
-* Follow Charity Majors and Liz Fong Jones on Twitter
+* [Observability Engineering book](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
+* [DORA Metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
+* [Learning Observability by Austin Parker](https://www.oreilly.com/library/view/learning-opentelemetry/9781098147174/)
+* [Honeycomb Online Demo](https://www.honeycomb.io/sandbox)
+* Follow [Charity Majors](https://twitter.com/mipsytipsy/) on Twitter
 
 Microservices
 * 12 Factor App
