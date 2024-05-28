@@ -16,10 +16,11 @@ Security
 Source Control / GitOps
 * LeetCode for Git
 * Do small project and host on Github
-* Open Gitops Group (discussion / volunteer)
-* “Git Best Practices”
-* “PR Best Practices”
-* Julia’s zines
+* [Open Gitops Group](https://opengitops.dev/get-involved) (discussion / volunteer)
+* [Git Repository Best Practices](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories)
+* [PR Best Practices](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests)
+* [Oh Shit, Git](https://wizardzines.com/zines/oh-shit-git/) by Julia Evans
+* [/r/git subreddit](https://www.reddit.com/r/git/)
 
 Kubernetes / Container Orchestration
 * CKAD cert
