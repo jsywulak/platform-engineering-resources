@@ -2,15 +2,16 @@
 learning resources for platform engineering skills
 
 Security
-* LLM Security Incidents / IntelGPT / Hacker ACI GPT (?)
 * Leaddev NYC 2023 Security Talks
-* Charity Majors SRE Con Keynote
-* CYSA
-* Bsides Conference
-* CISSP certification
-* WAF Security Pillar
-* AWS Security Cert
-* OWASP
+* [CYSA Certification](https://www.comptia.org/certifications/cybersecurity-analyst)
+* [Bsides Conference](https://infosec-conferences.com/event-series/bsides/)
+* [CISSP certification](https://www.isc2.org/certifications/cissp)
+* [WAF Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
+* [AWS Security Certification](https://aws.amazon.com/certification/certified-security-specialty/)
+* [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+* Security LLMs
+   * [IntelGPT](https://github.com/phishing-hunter/intelgpt)
+   * [Hacker GPT](https://github.com/Hacker-GPT/HackerGPT-2.0)
 
 Source Control / GitOps
 * LeetCode for Git
@@ -73,6 +74,7 @@ Infrastructure as Code (IAC)
 * Idempotency
 
 Observability (o11y) / SLA / SLO
+* [Charity Majors SRE Con Keynote](https://www.usenix.org/conference/srecon24americas/presentation/majors-plenary)
 * Google SRE Handbook
 * Google SRE Workbook
 * Alex H book
