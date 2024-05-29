@@ -91,7 +91,7 @@ Resources are broken up by subject area, and there are a lot of subject areas. A
 * Deploy your containers to cloud using IAC
 * 💡 Idempotency - writing your IAC in a way that it can be applied and the same result will occur, regardless of the initial state.
 * 💡 Immutable Infrastructure - writing your IAC that you only ever create and delete infrastructure, never update it.
-* 
+
 ### Observability (o11y) / SLA / SLO
 * 📺 [Charity Majors SRE Con Keynote](https://www.usenix.org/conference/srecon24americas/presentation/majors-plenary)
 * 📕 [Google SRE Handbook](https://sre.google/sre-book/table-of-contents/)
