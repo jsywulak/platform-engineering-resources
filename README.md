@@ -11,6 +11,8 @@ Resources are broken up by subject area, and there are a lot of subject areas. A
 |🧑‍💻|Online Training|
 |📄|Online Reading|
 |📕|Book|
+|🔨|Tool|
+|💡|Concept|
 |✅|Recommendation / advice|
 
 
@@ -63,10 +65,10 @@ Resources are broken up by subject area, and there are a lot of subject areas. A
 * 🧑‍💻 [Screeps](https://screeps.com/)
 
 ### Cloud
-* [AWS Skill Builder](https://skillbuilder.aws/)
-* [AWS Certifications](https://aws.amazon.com/certification/)
+* 🧑‍💻 [AWS Skill Builder](https://skillbuilder.aws/)
+* 🎓 [AWS Certifications](https://aws.amazon.com/certification/)
 * 🧑‍💻 [Cloud Resume Challenge](https://cloudresumechallenge.dev/)
-* Azure Free Tier (.net inspire)
+* ✅ Do a project using the Azure Free Tier (.net inspire)
 * 📄 Reading FAQs
 * 🧑‍💻 [A Cloud Guru](https://www.pluralsight.com/cloud-guru)
 * 🧑‍💻 [Tutorial Dojo](https://tutorialsdojo.com/)
@@ -77,7 +79,7 @@ Resources are broken up by subject area, and there are a lot of subject areas. A
 * 🧑‍💻 [Sad Servers](https://sadservers.com/)
 * 🧑‍💻 [OpenVIM Interactive Tutorial](https://www.openvim.com/)
 * 🧑‍💻 [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-* [Shellcheck](https://github.com/koalaman/shellcheck) - Bash Linter
+* 🔨 [Shellcheck](https://github.com/koalaman/shellcheck) - Bash Linter
 * 🧑‍💻 [Regex Golf](https://alf.nu/RegexGolf?world=regex&level=r00)
 * 📕 [Wizard Zines Bite Size Pack](https://wizardzines.com/zines/bite-size-pack/)
 
@@ -87,8 +89,9 @@ Resources are broken up by subject area, and there are a lot of subject areas. A
 * 🧑‍💻 Plural Sight / A Cloud Guru
 * 📺 [Pulumi Youtube Channel](https://www.youtube.com/channel/UC2Dhyn4Ev52YSbcpfnfP0Mw)
 * Deploy your containers to cloud using IAC
-* Idempotency
-
+* 💡 Idempotency - writing your IAC in a way that it can be applied and the same result will occur, regardless of the initial state.
+* 💡 Immutable Infrastructure - writing your IAC that you only ever create and delete infrastructure, never update it.
+* 
 ### Observability (o11y) / SLA / SLO
 * 📺 [Charity Majors SRE Con Keynote](https://www.usenix.org/conference/srecon24americas/presentation/majors-plenary)
 * 📕 [Google SRE Handbook](https://sre.google/sre-book/table-of-contents/)
@@ -119,10 +122,14 @@ Resources are broken up by subject area, and there are a lot of subject areas. A
 ### PM / Product Planning
 * 📕 [Wardley Maps](https://learnwardleymapping.com/book/)
 
+
+----
+
+The following sections were discussed during the session, but we didn't have time to come up with resources for them. Feel free to submit any suggestions you might have!!
+
 ### Marketing / Developer Relations (DevRel)
 
 ### Networking
-
 
 ### Internal Development Platforms (IDPs)
 
@@ -133,5 +140,3 @@ Resources are broken up by subject area, and there are a lot of subject areas. A
 ### Financial Operations (FinOps)
 
 ### Policy As Code (PAC)
-
-
