@@ -25,7 +25,7 @@ Resources are broken up by subject area, and there are a lot of subject areas. A
 * 🎓 [AWS Security Certification](https://aws.amazon.com/certification/certified-security-specialty/)
 * 📄 [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 * 🧑‍💻 [Bandit Wargame](https://overthewire.org/wargames/bandit/)
-* Security LLMs
+* 🔨 Security LLMs
    * [IntelGPT](https://github.com/phishing-hunter/intelgpt)
    * [Hacker GPT](https://github.com/Hacker-GPT/HackerGPT-2.0)
 
