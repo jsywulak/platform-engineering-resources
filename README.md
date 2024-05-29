@@ -3,16 +3,18 @@
 At [Devops Days Philly 2024](https://devopsdays.org/events/2024-philadelphia/welcome/), we had a open spaces session to crowdsource learning resources for building Platform Engineer skills. This is the output of that session.
 
 Resources are broken up by subject area, and there are a lot of subject areas. A lot of resources are free, but some are paid. 
+|||
+|---|----|
+|📺|Video|
+|🎓|Certification|
+|🎟|Conference|
+|🧑‍💻|Online Training|
+|📄|Online Reading|
+|📕|Book|
+|✅|Recommendation / advice|
 
-📺 Video
-🎓 Certification
-🎟 Conference
-🧑‍💻 Online Training
-📄 Online Reading
-📕 Book
-✅ Recommendation / advice
 
-Security
+### Security
 * 📺 [Security from Scratch | LeadDev NYC 2023 talk](https://leaddev.com/new-york/leaddev/video/2023/security-scratch)
 * 🎓 [CYSA Certification](https://www.comptia.org/certifications/cybersecurity-analyst)
 * 🎟 [Bsides Conference](https://infosec-conferences.com/event-series/bsides/)
@@ -25,7 +27,7 @@ Security
    * [IntelGPT](https://github.com/phishing-hunter/intelgpt)
    * [Hacker GPT](https://github.com/Hacker-GPT/HackerGPT-2.0)
 
-Source Control / GitOps
+### Source Control / GitOps
 * LeetCode for Git
 * ✅ Do small project and host on Github
 * 📄 [Open Gitops Group](https://opengitops.dev/get-involved) (discussion / volunteer)
@@ -34,7 +36,7 @@ Source Control / GitOps
 * 📕 [Oh Shit, Git](https://wizardzines.com/zines/oh-shit-git/) by Julia Evans
 * 📄 [/r/git subreddit](https://www.reddit.com/r/git/)
 
-Kubernetes / Container Orchestration
+### Kubernetes / Container Orchestration
 * 🎓 [CKAD cert](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 * 🧑‍💻 [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * 📕 [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781491935668/)
@@ -42,7 +44,7 @@ Kubernetes / Container Orchestration
 * 🧑‍💻 [killer.sh](https://killer.sh)
 * 📄 [EKS User Guide](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 
-Continuous Integration / Delivery / Deployment (CI/CD)
+### Continuous Integration / Delivery / Deployment (CI/CD)
 * ✅ Dummy app / ref architecture pipeline
 * 📄 [Thoughtworks Radar](https://www.thoughtworks.com/radar)
 * 📕 [Phoenix Project](https://itrevolution.com/product/the-phoenix-project/)
@@ -50,7 +52,7 @@ Continuous Integration / Delivery / Deployment (CI/CD)
 * 📕 [Accelerate](https://itrevolution.com/product/accelerate/)
 * 📕 [Continuous Delivery Book](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
 
-Programming Languages
+### Programming Languages
 * 📕 [Learn _X_ the Hard Way](https://learncodethehardway.org/)
     * Python and Golang are probably the two most used languages in platform engineering, but you also will be very well served by understanding the language the product engineers at your company are writing this applictions in.
 * ✅ Skip certs -- programming is an important skil in platform engineering, but the level language certifications require is most likely far too deep for what you'll need.
@@ -60,7 +62,7 @@ Programming Languages
 * 🧑‍💻 [programmingexpert.io](https://www.programmingexpert.io/product)
 * 🧑‍💻 [Screeps](https://screeps.com/)
 
-Cloud
+### Cloud
 * [AWS Skill Builder](https://skillbuilder.aws/)
 * [AWS Certifications](https://aws.amazon.com/certification/)
 * 🧑‍💻 [Cloud Resume Challenge](https://cloudresumechallenge.dev/)
@@ -71,7 +73,7 @@ Cloud
 * 📄 [AWS Well Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 * 📄 [Azure Well Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
 
-System Administration
+### System Administration
 * 🧑‍💻 [Sad Servers](https://sadservers.com/)
 * 🧑‍💻 [OpenVIM Interactive Tutorial](https://www.openvim.com/)
 * 🧑‍💻 [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
@@ -79,7 +81,7 @@ System Administration
 * 🧑‍💻 [Regex Golf](https://alf.nu/RegexGolf?world=regex&level=r00)
 * 📕 [Wizard Zines Bite Size Pack](https://wizardzines.com/zines/bite-size-pack/)
 
-Infrastructure as Code (IAC)
+### Infrastructure as Code (IAC)
 * 📕 [The Terraform Book by James Turnbull](https://terraformbook.com/)
 * Do docs / tutorials on TF
 * 🧑‍💻 Plural Sight / A Cloud Guru
@@ -87,7 +89,7 @@ Infrastructure as Code (IAC)
 * Deploy your containers to cloud using IAC
 * Idempotency
 
-Observability (o11y) / SLA / SLO
+### Observability (o11y) / SLA / SLO
 * 📺 [Charity Majors SRE Con Keynote](https://www.usenix.org/conference/srecon24americas/presentation/majors-plenary)
 * 📕 [Google SRE Handbook](https://sre.google/sre-book/table-of-contents/)
 * 📕 [Google SRE Workbook](https://sre.google/workbook/table-of-contents/)
@@ -99,7 +101,7 @@ Observability (o11y) / SLA / SLO
 * 🧑‍💻 [Honeycomb Online Demo](https://www.honeycomb.io/sandbox)
 * ✅ Follow [Charity Majors](https://twitter.com/mipsytipsy/) on Twitter
 
-Microservices
+### Microservices
 * 📄 [12 Factor App](https://12factor.net/)
 * 📕 [Monolith to Microservices by Sam Newman](https://samnewman.io/books/monolith-to-microservices/)
 * 📕 [Building Microservices by Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
@@ -114,21 +116,22 @@ Microservices
 * 🧑‍💻 [Rancher Academy](https://www.rancher.academy/)
 * 📺 [Malicious Compliance: Reflections on Trusting Container Scanners](https://kccnceu2023.sched.com/event/1Hybu/malicious-compliance-reflections-on-trusting-container-scanners-ian-coldwater-independent-duffie-cooley-isovalent-brad-geesaman-ghost-security-rory-mccune-datadog)
 
-Marketing / Developer Relations (DevRel)
-
-Networking
-
-PM / Product Planning
+### PM / Product Planning
 * 📕 [Wardley Maps](https://learnwardleymapping.com/book/)
 
-Internal Development Platforms (IDPs)
+### Marketing / Developer Relations (DevRel)
 
-Capacity Engineering
+### Networking
 
-Resilience Engineering
 
-Financial Operations (FinOps)
+### Internal Development Platforms (IDPs)
 
-Policy As Code (PAC)
+### Capacity Engineering
+
+### Resilience Engineering
+
+### Financial Operations (FinOps)
+
+### Policy As Code (PAC)
 
 
